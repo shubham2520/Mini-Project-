@@ -1,0 +1,10 @@
+D:\3TierBookApp\BEL_BookApp\bin\Debug\BEL_BookApp.dll
+D:\3TierBookApp\BEL_BookApp\bin\Debug\BEL_BookApp.pdb
+D:\3TierBookApp\BEL_BookApp\obj\Debug\BEL_BookApp.dll
+D:\3TierBookApp\BEL_BookApp\obj\Debug\BEL_BookApp.pdb
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BEL_BookApp\bin\Debug\BEL_BookApp.dll
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BEL_BookApp\bin\Debug\BEL_BookApp.pdb
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BEL_BookApp\obj\Debug\BEL_BookApp.csproj.AssemblyReference.cache
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BEL_BookApp\obj\Debug\BEL_BookApp.csproj.CoreCompileInputs.cache
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BEL_BookApp\obj\Debug\BEL_BookApp.dll
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BEL_BookApp\obj\Debug\BEL_BookApp.pdb

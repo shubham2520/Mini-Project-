@@ -1,0 +1,20 @@
+D:\3TierBookApp\BLL_BookApp\bin\Debug\BLL_BookApp.dll
+D:\3TierBookApp\BLL_BookApp\bin\Debug\BLL_BookApp.pdb
+D:\3TierBookApp\BLL_BookApp\bin\Debug\BEL_BookApp.dll
+D:\3TierBookApp\BLL_BookApp\bin\Debug\DAL_BookApp.dll
+D:\3TierBookApp\BLL_BookApp\bin\Debug\BEL_BookApp.pdb
+D:\3TierBookApp\BLL_BookApp\bin\Debug\DAL_BookApp.pdb
+D:\3TierBookApp\BLL_BookApp\obj\Debug\BLL_BookApp.csprojResolveAssemblyReference.cache
+D:\3TierBookApp\BLL_BookApp\obj\Debug\BLL_BookApp.dll
+D:\3TierBookApp\BLL_BookApp\obj\Debug\BLL_BookApp.pdb
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\bin\Debug\BLL_BookApp.dll
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\bin\Debug\BLL_BookApp.pdb
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\bin\Debug\BEL_BookApp.dll
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\bin\Debug\DAL_BookApp.dll
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\bin\Debug\BEL_BookApp.pdb
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\bin\Debug\DAL_BookApp.pdb
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\obj\Debug\BLL_BookApp.csproj.AssemblyReference.cache
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\obj\Debug\BLL_BookApp.csproj.CoreCompileInputs.cache
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\obj\Debug\BLL_BookApp.csproj.CopyComplete
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\obj\Debug\BLL_BookApp.dll
+C:\Users\Shubh\Desktop\dotnet git\3TierBookApp\BLL_BookApp\obj\Debug\BLL_BookApp.pdb
